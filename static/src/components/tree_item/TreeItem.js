@@ -38,6 +38,8 @@ odoo.define(
         countField: "",
       },
       template: "owl_tutorial_views.TreeItem",
+
+
     });
 
     return patchMixin(TreeItem);
